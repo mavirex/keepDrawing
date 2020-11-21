@@ -1,0 +1,38 @@
+{
+  "name": "keepdrawing",
+  "version": "1.0.0",
+  "description": "a suite of games based on handtrackjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxavier927/keepDrawing.git"
+  },
+  "keywords": [
+    "handtrack",
+    "game",
+    "aframe"
+  ],
+  "author": "Jeff Garber, Mark Guinn, Oscar Sanchez, Doug Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxavier927/keepDrawing/issues"
+  },
+  "homepage": "https://github.com/mxavier927/keepDrawing#readme",
+  "dependencies": {
+    "aframe": "^1.0.4",
+    "express": "^4.17.1",
+    "handtrackjs": "0.0.13",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1",
+    "redux": "^4.0.5",
+    "sequelize": "^6.3.5",
+    "socket.io": "^3.0.3",
+    "socketio": "^1.0.0",
+    "twilio": "^3.52.0",
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
